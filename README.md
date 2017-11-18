@@ -9,6 +9,24 @@ from 'other-module' import { OtherMethod }
 // ...
 ```
 
+or:
+
+```js
+import from 'my-module' MyModule, { AnotherMethod }
+import from 'other-module' { OtherMethod }
+
+// ...
+```
+
+or:
+
+```js
+import from 'my-module' as MyModule, { AnotherMethod }
+import from 'other-module' as { OtherMethod }
+
+// ...
+```
+
 An editor could allow autocompletion after only:
 
 ```js
