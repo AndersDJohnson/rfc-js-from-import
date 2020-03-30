@@ -38,3 +38,9 @@ or:
 ```js
 from 'my-module' import { O...
 ```
+
+## Related
+* https://github.com/AndersDJohnson/rfc-js-import-multiple
+* https://github.com/AndersDJohnson/rfc-js-import-infer-identifier
+* https://github.com/AndersDJohnson/rfc-js-import-object-alignment
+
