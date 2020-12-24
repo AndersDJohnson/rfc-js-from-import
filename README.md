@@ -43,4 +43,4 @@ from 'my-module' import { O...
 * https://github.com/AndersDJohnson/rfc-js-import-multiple
 * https://github.com/AndersDJohnson/rfc-js-import-infer-identifier
 * https://github.com/AndersDJohnson/rfc-js-import-object-alignment
-
+* https://github.com/AndersDJohnson/rfc-js-import-composition
